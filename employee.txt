@@ -1,0 +1,9 @@
+Name: Ahmed, Age: 30, Email: Ahmed@gmail.com, Salary: 1200.0
+Name: Nada, Age: 30, Email: nada@gmail.com, Salary: 300.0
+Name: Muna, Age: 30, Email: Muna@gmail.com, Salary: 4000.0
+Name: John, Age: 30, Email: John@gmail.com, Salary: 200.0
+Name: Khlood, Age: 30, Email: Khlood@gmail.com, Salary: 200.0
+Name: Sarah, Age: 30, Email: Sarah@gmail.com, Salary: 200.0
+Name: Ayfer, Age: 30, Email: Ayfer@gmail.com, Salary: 200.0
+Name: Maram, Age: 30, Email: Maram@gmail.com, Salary: 200.0
+Name: Huda, Age: 22, Email: Huda@gmail.com, Salary: 400.0
